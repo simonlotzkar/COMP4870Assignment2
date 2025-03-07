@@ -1,0 +1,12 @@
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\bin\Debug\net9.0\Assignment2.ServiceDefaults.deps.json
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\bin\Debug\net9.0\Assignment2.ServiceDefaults.dll
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\bin\Debug\net9.0\Assignment2.ServiceDefaults.pdb
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.csproj.AssemblyReference.cache
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.AssemblyInfoInputs.cache
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.AssemblyInfo.cs
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.dll
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\refint\Assignment2.ServiceDefaults.dll
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.pdb
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\ref\Assignment2.ServiceDefaults.dll

@@ -1,0 +1,6 @@
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.Web\obj\Debug\net9.0\Assignment2.Client.csproj.AssemblyReference.cache
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.Web\obj\Debug\net9.0\Assignment2.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.Web\obj\Debug\net9.0\Assignment2.Client.AssemblyInfoInputs.cache
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.Web\obj\Debug\net9.0\Assignment2.Client.AssemblyInfo.cs
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.Web\obj\Debug\net9.0\Assignment2.Client.csproj.CoreCompileInputs.cache
+C:\= Documents =\BCIT\4870\Assignment2\Assignment2.Web\obj\Debug\net9.0\Assignment2.Client.MvcApplicationPartsAssemblyInfo.cache
