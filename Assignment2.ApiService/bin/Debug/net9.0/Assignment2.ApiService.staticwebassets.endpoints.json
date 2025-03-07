@@ -1,5 +1,304 @@
 {
   "Version": 1,
   "ManifestType": "Build",
-  "Endpoints": []
+  "Endpoints": [
+    {
+      "Route": "articles.8myvp88wbi.csv",
+      "AssetFile": "articles.csv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005494505495"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 22:42:44 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8myvp88wbi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk="
+        },
+        {
+          "Name": "label",
+          "Value": "articles.csv"
+        }
+      ]
+    },
+    {
+      "Route": "articles.8myvp88wbi.csv",
+      "AssetFile": "articles.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 22:42:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8myvp88wbi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk="
+        },
+        {
+          "Name": "label",
+          "Value": "articles.csv"
+        }
+      ]
+    },
+    {
+      "Route": "articles.8myvp88wbi.csv.gz",
+      "AssetFile": "articles.csv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 22:42:44 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8myvp88wbi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M="
+        },
+        {
+          "Name": "label",
+          "Value": "articles.csv.gz"
+        }
+      ]
+    },
+    {
+      "Route": "articles.csv",
+      "AssetFile": "articles.csv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005494505495"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 22:42:44 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk="
+        }
+      ]
+    },
+    {
+      "Route": "articles.csv",
+      "AssetFile": "articles.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 22:42:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk="
+        }
+      ]
+    },
+    {
+      "Route": "articles.csv.gz",
+      "AssetFile": "articles.csv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 22:42:44 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M="
+        }
+      ]
+    }
+  ]
 }

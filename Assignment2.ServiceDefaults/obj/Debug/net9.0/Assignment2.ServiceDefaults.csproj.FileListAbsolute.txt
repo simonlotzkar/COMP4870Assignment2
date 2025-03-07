@@ -10,3 +10,16 @@ C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net
 C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\refint\Assignment2.ServiceDefaults.dll
 C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.pdb
 C:\= Documents =\BCIT\4870\Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\ref\Assignment2.ServiceDefaults.dll
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\bin\Debug\net9.0\Assignment2.ServiceDefaults.deps.json
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\bin\Debug\net9.0\Assignment2.ServiceDefaults.dll
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\bin\Debug\net9.0\Assignment2.ServiceDefaults.pdb
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.sourcelink.json
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.dll
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\refint\Assignment2.ServiceDefaults.dll
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\Assignment2.ServiceDefaults.pdb
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.ServiceDefaults\obj\Debug\net9.0\ref\Assignment2.ServiceDefaults.dll

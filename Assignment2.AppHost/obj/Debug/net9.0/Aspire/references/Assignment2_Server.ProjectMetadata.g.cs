@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class Assignment2_Server : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\elect\Comp 4870\Assignment2\COMP4870Assignment2\Assignment2.Server\Assignment2.Server.csproj""";
+    public string ProjectPath => """C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Server\Assignment2.Server.csproj""";
 }

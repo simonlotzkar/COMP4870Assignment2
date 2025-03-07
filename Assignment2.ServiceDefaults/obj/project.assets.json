@@ -2024,23 +2024,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\simon\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\benja\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj",
+      "projectUniqueName": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj",
       "projectName": "Assignment2.ServiceDefaults",
-      "projectPath": "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj",
-      "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.ServiceDefaults\\obj\\",
+      "projectPath": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj",
+      "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ServiceDefaults\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\benja\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

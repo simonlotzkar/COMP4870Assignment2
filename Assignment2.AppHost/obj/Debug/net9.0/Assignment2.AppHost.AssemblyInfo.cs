@@ -11,21 +11,23 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("12ca3efc-b869-4211-a2f9-d9831313e390")]
-[assembly: System.Reflection.AssemblyMetadata("dcpclipath", ("C:\\Users\\elect\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.1.0\\tools\\d" +
+[assembly: System.Reflection.AssemblyMetadata("dcpclipath", ("C:\\Users\\benja\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.1.0\\tools\\d" +
     "cp.exe"))]
-[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", ("C:\\Users\\elect\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.1.0\\tools\\e" +
+[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", ("C:\\Users\\benja\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.1.0\\tools\\e" +
     "xt\\"))]
-[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", ("C:\\Users\\elect\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.1.0\\tools\\e" +
+[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", ("C:\\Users\\benja\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.1.0\\tools\\e" +
     "xt\\bin\\"))]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", ("C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.AppHos" +
+    "t"))]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "Assignment2.AppHost.csproj")]
-[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", ("C:\\Users\\elect\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.1.0\\tools\\Aspire.Da" +
+[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", ("C:\\Users\\benja\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.1.0\\tools\\Aspire.Da" +
     "shboard.exe"))]
-[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.AppHost\\obj\\")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", ("C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.AppHos" +
+    "t\\obj\\"))]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assignment2.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1fcb4c862166bf6f1f8d72c95776bc80e4dcf81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a364918cc7ccf4231b549ae462cfd5027d4133f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assignment2.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assignment2.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

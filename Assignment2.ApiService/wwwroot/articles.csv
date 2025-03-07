@@ -1,0 +1,4 @@
+ArticleId,Title,Body,CreateDate,StartDate,EndDate,Email
+1,First Article,This is the body of the first article.,2025-03-07,2025-03-07,2025-03-14,user1@example.com
+2,Second Article,This is the body of the second article.,2025-03-08,2025-03-08,2025-03-15,user2@example.com
+3,Third Article,This is the body of the third article.,2025-03-09,2025-03-09,2025-03-16,user3@example.com

@@ -9,3 +9,15 @@ C:\= Documents =\BCIT\4870\Assignment2\Assignment2.Library\obj\Debug\net9.0\Assi
 C:\= Documents =\BCIT\4870\Assignment2\Assignment2.Library\obj\Debug\net9.0\refint\Assignment2.Library.dll
 C:\= Documents =\BCIT\4870\Assignment2\Assignment2.Library\obj\Debug\net9.0\Assignment2.Library.pdb
 C:\= Documents =\BCIT\4870\Assignment2\Assignment2.Library\obj\Debug\net9.0\ref\Assignment2.Library.dll
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Library\bin\Debug\net9.0\Assignment2.Library.deps.json
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Library\bin\Debug\net9.0\Assignment2.Library.dll
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Library\bin\Debug\net9.0\Assignment2.Library.pdb
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Library\obj\Debug\net9.0\Assignment2.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Library\obj\Debug\net9.0\Assignment2.Library.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Library\obj\Debug\net9.0\Assignment2.Library.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Library\obj\Debug\net9.0\Assignment2.Library.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Library\obj\Debug\net9.0\Assignment2.Library.sourcelink.json
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Library\obj\Debug\net9.0\Assignment2.Library.dll
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Library\obj\Debug\net9.0\refint\Assignment2.Library.dll
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Library\obj\Debug\net9.0\Assignment2.Library.pdb
+C:\Users\benja\OneDrive\Documents\COMP4870\COMP4870Assignment2\Assignment2.Library\obj\Debug\net9.0\ref\Assignment2.Library.dll

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\wwwroot\\articles.csv",
+      "PackagePath": "staticwebassets\\articles.csv"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Assignment2.ApiService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Assignment2.ApiService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Assignment2.ApiService.props",
+      "PackagePath": "build\\Assignment2.ApiService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment2.ApiService.props",
+      "PackagePath": "buildMultiTargeting\\Assignment2.ApiService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Assignment2.ApiService.props",
+      "PackagePath": "buildTransitive\\Assignment2.ApiService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

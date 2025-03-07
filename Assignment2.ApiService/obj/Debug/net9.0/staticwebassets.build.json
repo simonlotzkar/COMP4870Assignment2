@@ -1,12 +1,362 @@
 {
   "Version": 1,
-  "Hash": "g7edVYcmUDQ6/zNxFZmh15NtwSoyOGC19RiIV9urkYg=",
+  "Hash": "3CzNdfie/VCEOz/sR3anh1hCsxalPa6UwdR+PjPB3I8=",
   "Source": "Assignment2.ApiService",
   "BasePath": "_content/Assignment2.ApiService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment2.ApiService\\wwwroot",
+      "Source": "Assignment2.ApiService",
+      "ContentRoot": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\wwwroot\\",
+      "BasePath": "_content/Assignment2.ApiService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\obj\\Debug\\net9.0\\compressed\\ap5186gxkk-8myvp88wbi.gz",
+      "SourceId": "Assignment2.ApiService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Assignment2.ApiService",
+      "RelativePath": "articles#[.{fingerprint=8myvp88wbi}]?.csv.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\wwwroot\\articles.csv",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6bjwnaiqpe",
+      "Integrity": "Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\wwwroot\\articles.csv"
+    },
+    {
+      "Identity": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\wwwroot\\articles.csv",
+      "SourceId": "Assignment2.ApiService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\wwwroot\\",
+      "BasePath": "_content/Assignment2.ApiService",
+      "RelativePath": "articles#[.{fingerprint}]?.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8myvp88wbi",
+      "Integrity": "ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\articles.csv"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "articles.8myvp88wbi.csv",
+      "AssetFile": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\obj\\Debug\\net9.0\\compressed\\ap5186gxkk-8myvp88wbi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005494505495"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 22:42:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8myvp88wbi"
+        },
+        {
+          "Name": "label",
+          "Value": "articles.csv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk="
+        }
+      ]
+    },
+    {
+      "Route": "articles.8myvp88wbi.csv",
+      "AssetFile": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\wwwroot\\articles.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 22:42:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8myvp88wbi"
+        },
+        {
+          "Name": "label",
+          "Value": "articles.csv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk="
+        }
+      ]
+    },
+    {
+      "Route": "articles.8myvp88wbi.csv.gz",
+      "AssetFile": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\obj\\Debug\\net9.0\\compressed\\ap5186gxkk-8myvp88wbi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 22:42:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8myvp88wbi"
+        },
+        {
+          "Name": "label",
+          "Value": "articles.csv.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M="
+        }
+      ]
+    },
+    {
+      "Route": "articles.csv",
+      "AssetFile": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\obj\\Debug\\net9.0\\compressed\\ap5186gxkk-8myvp88wbi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005494505495"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 22:42:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk="
+        }
+      ]
+    },
+    {
+      "Route": "articles.csv",
+      "AssetFile": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\wwwroot\\articles.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 22:42:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ABoAJP5XntBA4wDmCHv/vTwUZTmcspbi5ShawLotFJk="
+        }
+      ]
+    },
+    {
+      "Route": "articles.csv.gz",
+      "AssetFile": "C:\\Users\\benja\\OneDrive\\Documents\\COMP4870\\COMP4870Assignment2\\Assignment2.ApiService\\obj\\Debug\\net9.0\\compressed\\ap5186gxkk-8myvp88wbi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 22:42:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Plce3fK8m+6PhasD1GBF3tMB3rV5RqitQl6woSgLE3M="
+        }
+      ]
+    }
+  ]
 }
