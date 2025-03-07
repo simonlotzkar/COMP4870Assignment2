@@ -1,36 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.AppHost\\Assignment2.AppHost.csproj": {}
+    "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.AppHost\\Assignment2.AppHost.csproj": {}
   },
   "projects": {
-    "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.AppHost\\Assignment2.AppHost.csproj": {
+    "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.AppHost\\Assignment2.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.AppHost\\Assignment2.AppHost.csproj",
+        "projectUniqueName": "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.AppHost\\Assignment2.AppHost.csproj",
         "projectName": "Assignment2.AppHost",
-        "projectPath": "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.AppHost\\Assignment2.AppHost.csproj",
-        "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.AppHost\\obj\\",
+        "projectPath": "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.AppHost\\Assignment2.AppHost.csproj",
+        "packagesPath": "C:\\Users\\elect\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.AppHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\elect\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj": {
-                "projectPath": "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj"
+              "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj": {
+                "projectPath": "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj"
               }
             }
           }
@@ -86,25 +90,29 @@
         }
       }
     },
-    "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj": {
+    "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj",
+        "projectUniqueName": "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj",
         "projectName": "Assignment2.ServiceDefaults",
-        "projectPath": "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj",
-        "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\= Documents =\\BCIT\\4870\\Assignment2\\Assignment2.ServiceDefaults\\obj\\",
+        "projectPath": "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.ServiceDefaults\\Assignment2.ServiceDefaults.csproj",
+        "packagesPath": "C:\\Users\\elect\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elect\\Comp 4870\\Assignment2\\COMP4870Assignment2\\Assignment2.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\elect\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

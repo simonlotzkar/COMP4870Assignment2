@@ -8,5 +8,5 @@ namespace Projects;
 public class Assignment2_AppHost
 {
     private Assignment2_AppHost() { }
-    public static string ProjectPath => """C:\= Documents =\BCIT\4870\Assignment2\Assignment2.AppHost""";
+    public static string ProjectPath => """C:\Users\elect\Comp 4870\Assignment2\COMP4870Assignment2\Assignment2.AppHost""";
 }
